@@ -10,3 +10,6 @@ Proyecto de Modelos I - Intro a la Inteligencia artificial
 
 
 [![Alt text](https://img.youtube.com/vi/P8GUUV2MSDA/0.jpg)](https://www.youtube.com/watch?v=P8GUUV2MSDA)
+
+Video entrega final
+https://www.youtube.com/watch?v=p1wjpJlC-84
